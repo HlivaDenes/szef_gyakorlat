@@ -1,4 +1,5 @@
-# Szerverek és felhőszolgáltatások gyakorlat tantárgy (279 óra win és Linux)
+# Szerverek és felhőszolgáltatások gyakorlat tantárgy 
+#### (279 óra win és Linux)
 #### heti 4 óra: 124 óra Linux
 #### heti 3 óra:  93 óra Linux
 
