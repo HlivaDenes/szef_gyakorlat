@@ -93,40 +93,44 @@
 Betartja a munka-, baleset-, tűz- és környezetvédelmi, valamint a távközlési szakmára vonatkozó előírásokat
 
 #### SZAKMAI ISMERETEK
-Hálózati operációsrendszerek telepítési módjai
-Tárolórendszerek típusai működési elvük
-Címtárszolgáltatáshoz tartozó fogalmak
-Csoportházirend fogalma
-Magas rendelkezésre állás biztosítása
-Hálózati címzés és címkiosztás (IPv4 és IPv6 címzés)
-Szoftveres tűzfal és egyéb biztonsági beállítások
-DNS alapok
-Távoli elérést biztosító technológiák
-Hálózati hozzáférést szabályozó technológiák
-Nyomtató kiszolgálás
-Fájl kiszolgálás
-Web- és FTP kiszolgálás
-E-mail kiszolgálás
-Adatbázis kiszolgálás
-Hálózat felügyelet és a hibaelhárítás
-Virtualizált környezet és hálózat, illetve virtuális gépek telepítése és beállítása
-Privát felhő, nyilvános felhő, hibrid felhő jellemzői
-Szoftver szolgáltatás (Software as a Service), platform szolgáltatás (Platform as a Service), infrastruktúra szolgáltatás (Infrastructure as a Service)
-Munka-, baleset-, tűz- és környezetvédelmi előírások
-SZAKMAI KÉSZSÉGEK
-Bináris számrendszer használata
-IP-címzés
-Angol nyelvű, olvasott szakmai szöveg megértése és felhasználása
-SZEMÉLYES KOMPETENCIÁK
-Precizitás
-Megbízhatóság
-Önállóság
-TÁRSAS KOMPETENCIÁK
-Együttműködés
-Kezdeményezőkészség
-Prezentációs készség
-MÓDSZERKOMPETENCIÁK
-Logikus gondolkodás
-Hibakeresés (diagnosztizálás)
-Problémamegoldás, hibaelhárítás
+1. Hálózati operációsrendszerek telepítési módjai
+2. Tárolórendszerek típusai működési elvük
+3. Címtárszolgáltatáshoz tartozó fogalmak
+4. Csoportházirend fogalma
+5. Magas rendelkezésre állás biztosítása
+6. Hálózati címzés és címkiosztás (IPv4 és IPv6 címzés)
+7. Szoftveres tűzfal és egyéb biztonsági beállítások
+8. DNS alapok
+9. Távoli elérést biztosító technológiák
+10. Hálózati hozzáférést szabályozó technológiák
+11 .Nyomtató kiszolgálás
+12. Fájl kiszolgálás
+13. Web- és FTP kiszolgálás
+14. E-mail kiszolgálás
+15. Adatbázis kiszolgálás
+16. Hálózat felügyelet és a hibaelhárítás
+17. Virtualizált környezet és hálózat, illetve virtuális gépek telepítése és beállítása
+18. Privát felhő, nyilvános felhő, hibrid felhő jellemzői
+19. Szoftver szolgáltatás (Software as a Service), platform szolgáltatás (Platform as a Service), infrastruktúra szolgáltatás (Infrastructure as a Service)
+20. Munka-, baleset-, tűz- és környezetvédelmi előírások
+
+#### SZAKMAI KÉSZSÉGEK
+1. Bináris számrendszer használata
+2. IP-címzés
+3. Angol nyelvű, olvasott szakmai szöveg megértése és felhasználása
+
+#### SZEMÉLYES KOMPETENCIÁK
+1. Precizitás
+2. Megbízhatóság
+3. Önállóság
+
+#### TÁRSAS KOMPETENCIÁK
+1. Együttműködés
+2. Kezdeményezőkészség
+3. Prezentációs készség
+
+#### MÓDSZERKOMPETENCIÁK
+1. Logikus gondolkodás
+2. Hibakeresés (diagnosztizálás)
+3. Problémamegoldás, hibaelhárítás
 
