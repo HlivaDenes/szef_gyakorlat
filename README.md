@@ -1,8 +1,6 @@
-# szef_gyakorlat
-Szerverek és felhőszolgáltatások gyakorlat tantárgy
-(279 óra win és Linux)
-heti 4 óra: 124 óra Linux
-heti 3 óra:  93 óra Linux
+# Szerverek és felhőszolgáltatások gyakorlat tantárgy (279 óra win és Linux)
+#### heti 4 óra: 124 óra Linux
+#### heti 3 óra:  93 óra Linux
 
             19.3.2. Linux kiszolgáló telepítése és üzemeltetése
 1. A szerver hardver konfigurálása
