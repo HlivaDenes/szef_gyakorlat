@@ -64,3 +64,69 @@
 –	Fájlmegosztás
 –	Menedzselt adattárolási megoldások
 –	Adatbázisok
+
+
+#### FELADATOK
+1. Meghatározza a hálózati kiszolgáló funkciójának és várható terhelésének megfelelő fizikai vagy infrastruktúra szolgáltatásként elérhető hardvert
+2. Redundanciát és magas rendelkezésre állást biztosító tároló rendszert telepít és konfigurál
+3. Kiválasztja a működési körülményeknek legmegfelelőbb hálózati operációs rendszer változatot, illetve disztribúciót
+4. Windows és Linux kiszolgáló operációs rendszert telepít, ennek keretében partícionálja a merevlemezt, kiválasztja és létrehozza a fájlrendszert
+5. Telepíti az operációs rendszer biztonsági frissítéseit, eszközmeghajtó programokat szerez be és telepít, kernelt konfigurál és fordít
+6. Feltelepíti és beállítja a boot manager-t, testreszabja az indítási folyamatot, beállítja a rendszer futási szintjét és megfelelő módon leállítja, illetve újraindítja a kiszolgálót
+7. Rendszerösszetevők és alkalmazások telepítéséhez csomagkezelő rendszert használ
+8. Gondoskodik a különböző szerepkörök, tulajdonságok és szolgáltatások telepítéséről, kezeléséről, beállítja a szolgáltatások indításának módját
+9. Hálózati címtárszolgáltatást telepít, konfigurál és üzemeltet; felhasználókat és csoportokat hoz létre, jelszókezelést végez; hálózati csoportházirendet tervez meg és alkalmaz
+10. Hálózati fájl- és nyomtató szolgáltatást telepít és konfigurál, beálltja a megosztásokat; lemezkvótát állít be a felhasználók számára, beállítja a fájlrendszer jogosultsági és tulajdonosi rendszerét
+11.Testreszabja és használja a shell környezetet, egyszerűbb feladatok megoldására scripteket készít, ütemezett feladatkezelést végez
+12. Hálózati operációs rendszeren működő dinamikus forgalomirányítási protokollt telepít és konfigurál
+13. DHCP és DNS kiszolgálót telepít és konfigurál
+14. Web kiszolgálói feladatokat biztosító hálózati szolgáltatást telepít és konfigurál, virtuális web kiszolgálót és virtuális könyvtárat hoz létre
+15. FTP, e-mail és adatbázis kiszolgálót telepít és konfigurál
+16. Biztonságos távoli elérést biztosító szolgáltatást telepít és konfigurál
+17. Beállítja a szoftveres tűzfalat és az egyéb fejlett biztonsági funkciókat, hálózati hozzáférés-védelmet telepít és állít be
+18. Hálózati mentési és visszaállítási feladatot tervez meg és hajt végre
+19. Monitorozza és felügyeli a hálózati operációs rendszer és az ügyfelek működését, naplózási beállításokat végez, naplófájlokat elemez
+20. Virtualizációs környezetet telepít, virtuális munkaállomásokat és kiszolgálókat telepít
+21. Felügyeli, monitorozza és optimalizálja a virtuális munkakörnyezetben üzemelő számítógépek működését
+22. Egymással együttműködő és egymást kiegészítő funkciójú Windows és Linux kiszolgálót egyaránt tartalmazó rendszert tervez, konfigurál és üzemeltet
+23. Privát-, nyilvános- és hibrid felhőszolgáltatásokat használ, konfigurál és tart karban
+Betartja a munka-, baleset-, tűz- és környezetvédelmi, valamint a távközlési szakmára vonatkozó előírásokat
+
+#### SZAKMAI ISMERETEK
+Hálózati operációsrendszerek telepítési módjai
+Tárolórendszerek típusai működési elvük
+Címtárszolgáltatáshoz tartozó fogalmak
+Csoportházirend fogalma
+Magas rendelkezésre állás biztosítása
+Hálózati címzés és címkiosztás (IPv4 és IPv6 címzés)
+Szoftveres tűzfal és egyéb biztonsági beállítások
+DNS alapok
+Távoli elérést biztosító technológiák
+Hálózati hozzáférést szabályozó technológiák
+Nyomtató kiszolgálás
+Fájl kiszolgálás
+Web- és FTP kiszolgálás
+E-mail kiszolgálás
+Adatbázis kiszolgálás
+Hálózat felügyelet és a hibaelhárítás
+Virtualizált környezet és hálózat, illetve virtuális gépek telepítése és beállítása
+Privát felhő, nyilvános felhő, hibrid felhő jellemzői
+Szoftver szolgáltatás (Software as a Service), platform szolgáltatás (Platform as a Service), infrastruktúra szolgáltatás (Infrastructure as a Service)
+Munka-, baleset-, tűz- és környezetvédelmi előírások
+SZAKMAI KÉSZSÉGEK
+Bináris számrendszer használata
+IP-címzés
+Angol nyelvű, olvasott szakmai szöveg megértése és felhasználása
+SZEMÉLYES KOMPETENCIÁK
+Precizitás
+Megbízhatóság
+Önállóság
+TÁRSAS KOMPETENCIÁK
+Együttműködés
+Kezdeményezőkészség
+Prezentációs készség
+MÓDSZERKOMPETENCIÁK
+Logikus gondolkodás
+Hibakeresés (diagnosztizálás)
+Problémamegoldás, hibaelhárítás
+
