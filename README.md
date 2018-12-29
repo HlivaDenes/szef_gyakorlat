@@ -45,23 +45,23 @@
 
             19.3.4. Felhőszolgáltatások   45 óra
 1. A privát felhő, a nyilvános felhő és a hibrid felhő jellemzői
-–	Népszerű SaaS megoldások (Onedrive, Dropbox, O365, stb.) kezelése
-–	Ismerkedés a publikus felhőszolgáltatások portál megoldásaival
-–	PaaS alapszolgáltatások konfigurálása (adatbázisok, webszerverek)
-–	Hálózat, tárolás és virtuális gépek az IaaS-ban 
-–	A publikus felhőszolgáltatás címtármegoldásai (AAD)
+1. –	Népszerű SaaS megoldások (Onedrive, Dropbox, O365, stb.) kezelése
+1. –	Ismerkedés a publikus felhőszolgáltatások portál megoldásaival
+1. –	PaaS alapszolgáltatások konfigurálása (adatbázisok, webszerverek)
+1. –	Hálózat, tárolás és virtuális gépek az IaaS-ban 
+1. –	A publikus felhőszolgáltatás címtármegoldásai (AAD)
 1. Virtuális gépek létrehozása és menedzselése
-–	Virtuális gépek és virtuálisgép-sablonok 
-–	Virtuális lemezek
-–	Virtuális hálózatok; hibrid felhőmegoldások – VPN
-–	Magas rendelkezésre állás biztosítása
-–	Biztonsági mentés
-–	Active Directory a felhőben – Azure Active Directory
+1. –	Virtuális gépek és virtuálisgép-sablonok 
+1. –	Virtuális lemezek
+1. –	Virtuális hálózatok; hibrid felhőmegoldások – VPN
+1. –	Magas rendelkezésre állás biztosítása
+1. –	Biztonsági mentés
+1. –	Active Directory a felhőben – Azure Active Directory
 1. Adattárolás a felhőben
-–	Adatlemezek
-–	Fájlmegosztás
-–	Menedzselt adattárolási megoldások
-–	Adatbázisok
+1. –	Adatlemezek
+1. –	Fájlmegosztás
+1. –	Menedzselt adattárolási megoldások
+1. –	Adatbázisok
 
 
 #### FELADATOK
