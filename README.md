@@ -33,10 +33,7 @@
 1. Apache webszerver telepítése, konfigurálása
 1. Adatbázis kiszolgáló telepítése és üzemeltetése
 1. Tűzfal és proxy szolgáltatások beállítása (pl. iptables, squid, ACL, kliensazonosítás)
-1. Levelezési szolgáltatások alapbeállításai (SMTP protokoll, postfix, sendmai
-            20.3.2. Linux kiszolgáló telepítése és üzemeltetése	33 óra/33 óra
-A szerver hardverkövetelményének meghatározása
-A szerver betöltési folyamatának áttekintésel, exim, POP3, IMAP)
+1. Levelezési szolgáltatások alapbeállításai (SMTP protokoll, postfix, sendmail, exim, POP3, IMAP)
 <br>
 
             19.3.3. Linux és Windows alapú rendszerek integrációja   36 óra
