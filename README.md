@@ -1,7 +1,7 @@
 # Szerverek és felhőszolgáltatások gyakorlat tantárgy
 ##### 31 hét (279 óra win és Linux), heti 4 óra esetén: 124 óra Linux, heti 3 óra esetén:  93 óra Linux
 
-            19.3.2. Linux kiszolgáló telepítése és üzemeltetése
+            19.3.2. Linux kiszolgáló telepítése és üzemeltetése  99 óra
 1. A szerver hardver konfigurálása
 1. A futási szintek beállítása, alapértelmezett futási szint beállítása, váltás a futási szintek között
 1. A rendszer leállítása, újraindítása parancssorból
@@ -33,17 +33,20 @@
 1. Apache webszerver telepítése, konfigurálása
 1. Adatbázis kiszolgáló telepítése és üzemeltetése
 1. Tűzfal és proxy szolgáltatások beállítása (pl. iptables, squid, ACL, kliensazonosítás)
-1. Levelezési szolgáltatások alapbeállításai (SMTP protokoll, postfix, sendmail, exim, POP3, IMAP)
+1. Levelezési szolgáltatások alapbeállításai (SMTP protokoll, postfix, sendmai
+            20.3.2. Linux kiszolgáló telepítése és üzemeltetése	33 óra/33 óra
+A szerver hardverkövetelményének meghatározása
+A szerver betöltési folyamatának áttekintésel, exim, POP3, IMAP)
 <br>
 
-            19.3.3. Linux és Windows alapú rendszerek integrációja
+            19.3.3. Linux és Windows alapú rendszerek integrációja   36 óra
 1. A különböző operációs rendszereket futtató gépek multiboot rendszerének beállítása
 1. Samba szolgáltatás beállítása Linux szerveren Windows kliensek kiszolgálására
 1. LDAP szolgáltatás beállítása Linuxon az Active Directory használatához
 1. Exchange szerver elérése Linuxon futtatott POP3, IMAP kliensek segítségével
 <br>
 
-            19.3.4. Felhőszolgáltatások
+            19.3.4. Felhőszolgáltatások   45 óra
 1. A privát felhő, a nyilvános felhő és a hibrid felhő jellemzői
 –	Népszerű SaaS megoldások (Onedrive, Dropbox, O365, stb.) kezelése
 –	Ismerkedés a publikus felhőszolgáltatások portál megoldásaival
