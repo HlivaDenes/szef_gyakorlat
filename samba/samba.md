@@ -55,7 +55,8 @@ read only=no
 browseable=yes
 guest ok=yes
 public=yes
-[kozos2]
+
+[readonly]
 comment=nyilvános csak olvasható megosztás
 path=/srv/readonly
 read only=yes
