@@ -40,7 +40,7 @@ sudo mcedit /etc/samba/smb.conf
 ### 5.2 Állítsuk be az általános, minden megosztás esetén érvényes beállításokat. 
 ### Ezek a [global] szakaszban találhatóak az  /etc/samba/smb.conf fájlban:
 [global]
-netbios name=ubuntu-szerver
+netbios name=samba
 security=user
 map to guest=bad user
 workgroup = WORKGROUP
