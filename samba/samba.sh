@@ -100,7 +100,7 @@ writelist=user2
 force directory mode=0777
 force create mode=0777
 
-### 7.6 Vegyük fel a „User2” felhasználót a Samba adatbázisba:
+### 7.6 Vegyük fel a user2 felhasználót a Samba adatbázisba:
 sudo smbpasswd -a user2 #adjuk meg a jelszót: hallgato
 
 ### 7.7 Indítsuk újra a szolgáltatást.
@@ -120,7 +120,7 @@ sudo apt-get update
 sudo apt-get install cifs-utils
 
 # Hajtsuk végre a felcsatolást: samba_IP helyére az IP címet írva
-sudo mount.cifs //samba_IP/user2 /mnt/user2 -o username=user2,password=hallgato
+sudo mount.cifs //samba_IP/user2 /mnt/user2 -o username=user2, password=hallgato
 
 # Lépjünk be a könyvtárba, és hozzunk létre ott egy új szöveges állományt. Lépjünk ki a könyvtárból,majd csatoljuk azt le.
 sudo umount /mnt/user2
