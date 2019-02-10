@@ -1,0 +1,63 @@
+Telepítsen és konfiguráljon Wordpress szervert, Ubuntu 16.04-re
+
+1. Telepítsen fel virtuális gépként egy Ubuntu 16.04-et.
+ gépnév: ubuntu
+ sudo jogú felhasználó: ubuntu
+ jelszó: 123456
+ RAM: 4GB, Hdd: 20 GB
+ NIC: (bridge- network), DHCP client
+
+5 pont
+
+2. Telepítse az ssh szervert és az nmap programot az Ubuntu 16.04-en.
+ Frissítse a gép szoftver leltárát (update).
+ Telepítse az ssh szervert és az nmap programcsomagot.
+ Állapítsa meg a host gép hálózati kártyájának IP címét:
+ Állapítsa meg és jegyezze fel a virtuális Ubuntu 16.04 MAC címét:
+ Állapítsa meg és jegyezze fel az Ubuntu 16.04 (192.168.0.0/22) IP címét:
+
+5 pont
+
+3. Telepítse az Ansible rendszert a Ubuntu 16.04 virtuális gépre.
+ Lépjen be a host gépről az Ubuntu 16.04 virtuális gépre ssh segítségével.
+ Frissítse (update) a gép szoftverleltárát.
+ Vegye fel a az Ansible repositoryt (ppa:ansible/ansible)
+ Újabb update után telepítse az ansible programcsomagot.
+ Állapítsa meg az Ansible verziószámát:
+
+10 pont
+
+4. Az Ubuntu 16.04 virtuális gépben, Ansible segítségével telepítse a Wordpress
+rendszert.
+ Keresse meg a Github-on az andreipak/wordpress-ansible repositoryt és
+klónozza le a virtuális Ubuntu 16.04-ben.
+ Lépjen be az így létrehozott ansible playbook könyvtárba és telepítse a
+wordpress szervert.
+
+10 pont
+
+5. Konfigurálja be a Wordpress szervert.
+ Lépjen be a host gép böngészőjén a Wordpress szerver konfigurációs felületére
+Készítsen screenshot-ot.
+ Konfigurálja be a Wordpress szervert.
+
+10 pont
+
+54 481 04 Informatikai rendszergazda 2018 B Feladat A
+
+6/8
+
+6. Készítsen egy Wordpress oldalt.
+ A host gépen a böngészőben nyissa meg Wordpress oldal adminisztrációs
+felületét Készítsen screenshot-ot.
+ Hozzon létre egy saját wordpress oldalt.
+ Készítsen screenshot-ot.
+
+5 pont
+
+7. Töltse fel a screenshotokat és a feljegyzett adatokat tartalmazó fájlt github
+tárolóba.
+ Aktíválja a vizsgán kapott github repositoryt.
+ Töltse fel a github tárolóba a screenshotokat.
+ Töltse fel a github tárolóba fájlként a feljegyzett adatokat
+ Jegyezze fel a github tároló elérhetőségét:
