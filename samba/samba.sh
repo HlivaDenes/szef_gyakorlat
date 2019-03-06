@@ -61,7 +61,7 @@ comment=nyilvános csak olvasható megosztás
 path=/srv/readonly
 read only=yes
 browseable=yes
-guest=ok
+guest ok=yes
 public=yes
 
 
@@ -75,7 +75,7 @@ sudo testparm
 # 7. Konkrét felhasználónak is adhatunk külön megosztást:
 
 ### 7.1. Felhasználó felvétele
-sudo useradd user2 –c "user2” –g users –m –d /home/user2 –s /bin/bash
+sudo useradd user2 –c "user2" –g users –m –d /home/user2 –s /bin/bash
 
 ### 7.2 Jelszó megadása
 sudo passwd user2 #adjuk meg a jelszót
