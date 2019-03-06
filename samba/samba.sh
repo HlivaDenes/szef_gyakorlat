@@ -108,37 +108,6 @@ sudo service smbd restart
 
 #########################################################################################################
 
-# 8. SAMBA telepítése és konfigurálása a KLIENSEN
+# 8. SAMBA szerver elérése kliensről
 
-# Hozzunk létre egy könyvtárat a kliensen, ide fogjuk felcsatolni a samba által megosztott mappát.
-sudo mkdir /mnt/kozos
-sudo mkdir /mnt/readonly
-sudo mkdir /mnt/user2
 
-# Az asztali Ubuntu operációs rendszert futtató virtuális gépen telepítsük fel a megosztás eléréséhez szükséges csomagokat:
-sudo apt-get update
-sudo apt-get install cifs-utils
-
-# Hajtsuk végre a felcsatolást: samba_IP helyére az IP címet írva
-sudo mount.cifs //samba_IP/user2 /mnt/user2 -o username=user2, password=hallgato
-
-# Lépjünk be a könyvtárba, és hozzunk létre ott egy új szöveges állományt. Lépjünk ki a könyvtárból,majd csatoljuk azt le.
-sudo umount /mnt/user2
-
-# Ha azt szeretnénk, hogy minden indításkor automatikusan csatolódjon fel a könyvtár, akkor az /etc/fstab állományba egy új sort kell írnunk. Ehhez nyissuk meg az állományt.
-sudo mcedit /etc/fstab
-
-# Helyezzük el a következő sort (egyetlen sorba írva, és a sor végén az Enter-t lenyomva):
-//samba_IP/kozos /mnt/kozos cifs 
-//samba_IP/readonly /mnt/readonly cifs 
-//samba_IP/user2 /mnt/user2 cifs username=user2, password=hallgato
-# Mentsük el az állományt, majd próbáljuk ki a beállítást. Indítsuk újra a virtuális gépet az automatikus felcsatolás ellenőrzése érdekében.
-# A kozos és a readonly megosztás felcsatolásához nincs szükség hitelesítésre:
-mount.cifs //192.168.1.2/kozos /mnt/kozos
-mount.cifs //192.168.1.2/kozos2 /mnt/readonly
-
-# Ezután indítsunk el egy Windows operációs rendszerű gépet (megfelelő hálózatba tegyük, és az IP címe is a megadott hálózatba tartozzon), és csatoljuk fel egy meghajtóként a samba által megosztott könyvtárakat.
-# A megosztás elérési útja (gépnév helyett az IP cím is jó):
-\\samba_IP\kozos
-\\samba_IP\readonly
-\\samba_IP\user2
